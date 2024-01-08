@@ -1,0 +1,7 @@
+{
+  "app_id": "dataapp-swHHTsDx",
+  "app_name": "CaCtest",
+  "app_type": "dataapp",
+  "description": "Debug TiDB Cloud Documentation: Deploy Data App Automatically with GitHub #15745",
+  "app_version": "1.0.0"
+}
